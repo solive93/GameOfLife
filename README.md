@@ -4,7 +4,7 @@ TDD Game of Life in React
 ### Usage
 
 1. **Clone the repo:** <br>
-`https://github.com/solive93/GameOfLife_React.git`
+`git clone https://github.com/solive93/GameOfLife.git`
 
 2. **Install the dependencies:** <br>
 `npm install`
